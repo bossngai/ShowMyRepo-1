@@ -1,2 +1,5 @@
 # ShowMyRepo
+<<<<<<< HEAD
+=======
 testtttt
+>>>>>>> master
